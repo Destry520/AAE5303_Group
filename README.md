@@ -50,21 +50,25 @@ Here's what the basic structure might look like, but remember - **you can totall
 [Your creative explanation here - or skip this section if you want!]
 
 ## Team Members
+> 💡 **Tip:** Feel free to add your personal photo if you'd like! It's completely optional but can make your profile more personal. 📸
 
 ### Member 1
 - **Student ID:** [Your ID]
 - **Name:** [Your Name]
 - **About Me:** [Your introduction - be as creative as you want!]
+- **Photo (Optional):** [You can add a photo link or emoji here if you want!]
 
 ### Member 2
 - **Student ID:** [Your ID]
 - **Name:** [Your Name]
 - **About Me:** [Your introduction]
+- **Photo (Optional):** [You can add a photo link or emoji here if you want!]
 
 ### Member 3
 - **Student ID:** [Your ID]
 - **Name:** [Your Name]
 - **About Me:** [Your introduction]
+- **Photo (Optional):** [You can add a photo link or emoji here if you want!]
 ```
 
 But seriously, **don't feel bound by this structure!** You could:
